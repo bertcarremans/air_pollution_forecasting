@@ -2,3 +2,4 @@ data/
 model/
 .DS_Store
 .ipynb_checkpoints
+output/
